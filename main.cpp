@@ -5,7 +5,7 @@
 #include <any>
 #include <ranges>
 #include <hyprland/src/Compositor.hpp>
-#include <hyprland/src/desktop/view/Window.hpp>
+#include <hyprland/src/desktop/Window.hpp>
 #include <hyprland/src/config/ConfigManager.hpp>
 #include <hyprland/src/managers/EventManager.hpp>
 #include <strings.h>
